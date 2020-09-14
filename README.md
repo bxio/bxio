@@ -8,7 +8,7 @@ My job description often include [DevOps](https://en.wikipedia.org/wiki/DevOps),
 
 I love examining aviation disasters for the interaction between the crew that affected the sequence of events that ultimately saved or doomed the plane. Some of my favourite incidents include the [disaster at Tenerife Airport](https://en.wikipedia.org/wiki/Tenerife_airport_disaster), the accident of [United 232](https://en.wikipedia.org/wiki/United_Airlines_Flight_232) which hugely exceeded reasonable expectations, and the story of the development and service life of the [Concorde](https://en.wikipedia.org/wiki/Concorde#Development).
 
-In my off time, I love to challenge myself by [learning other languages](/talen), [travelling](/travel), and [creating worlds](http://roll20.net).
+In my off time, I love to challenge myself by [learning other languages](https://billxiong.com/talen), [travelling](https://billxiong.com/travel), and [creating worlds](https://roll20.net).
 
 ## Social media
 <a href="https://twitter.com/bill_xiong"><img src="https://raw.githubusercontent.com/bxio/bxio/master/images/twitter.png" width="100" title="Twitter"></a>
