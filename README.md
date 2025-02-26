@@ -1,5 +1,5 @@
 ### <img src="https://komarev.com/ghpvc/?username=bxio&abbreviated=true" align="right"> Hi there 👋
-[![bxio's github stats](https://github-readme-stats.vercel.app/api?username=bxio&count_private=true&show_icons=true&theme=chartreuse-dark&hide=contribs)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bxio&layout=compact&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bxio&layout=compact&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 # Hi, I'm Bill.
 
