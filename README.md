@@ -1,7 +1,5 @@
-### <img src="https://komarev.com/ghpvc/?username=bxio&abbreviated=true" align="right"> Hi there 👋
+### <img src="https://komarev.com/ghpvc/?username=bxio&abbreviated=true" align="right"> Hi there 👋 I'm Bill.
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bxio&layout=compact&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
-
-# Hi, I'm Bill.
 
 This repository contains the spaghetti I write during my off-time or inbetween software builds, when I'm not collecting airline miles or rolling dice.
 
