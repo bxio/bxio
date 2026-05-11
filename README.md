@@ -1,4 +1,4 @@
-# Hi there <img src="https://raw.githubusercontent.com/bxio/bxio/master/assets/wave.gif" width="30px">
+# Hi there <img src="https://raw.githubusercontent.com/bxio/bxio/master/images/wave.gif" width="30px">
 
 ### <img src="https://komarev.com/ghpvc/?username=bxio&abbreviated=true" align="right">
 
